@@ -1,0 +1,21 @@
+{
+  "name": "cold-dog-soup",
+  "version": "0.5.0",
+  "description": "Minimal cold-dog-soup",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "P'unk Avenue",
+  "license": "BSD",
+  "dependencies": {
+    "apostrophe-browserify": "^0.5.5",
+    "apostrophe-editor-2": "0.5.x",
+    "apostrophe-site": "0.5.x",
+    "apostrophe-ui-2": "0.5.x"
+  }
+}
